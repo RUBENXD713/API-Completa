@@ -1,0 +1,6 @@
+##################################API Completa de Node################################
+
+API con todo tipo de rutas y conexion a MongoDB database
+para poder utilizar hay que rellenar el archivo .env y ejecutar el comando 
+
+"npm install"
